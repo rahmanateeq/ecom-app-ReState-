@@ -44,7 +44,7 @@ export default function Index() {
                     Good Morning
                   </Text>
                   <Text className="text-xs font-rubik-medium text-black-300">
-                    Atiqur Rahman
+                    AtiqurRahman
                   </Text>
                 </View>
               </View>

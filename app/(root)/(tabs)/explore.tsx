@@ -33,7 +33,7 @@ const Explore = () => {
       ListHeaderComponent={
        
         <View className='px-5'>
-           <View className=' felx flex-row items-center justify-between mt-5'>
+           <View className=' flex flex-row items-center justify-between mt-5'>
                 <TouchableOpacity onPress={() => router.back()} className='flex flex-row items-center justify-center
                 bg-primary-200 rounded-full size-11'>
                 <Image source={icons.backArrow} className='size-6'/>
